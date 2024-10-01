@@ -1,0 +1,111 @@
+@font-face {
+    font-family: akony;
+    src: url(../assets/Fonts/akony.ttf);
+}
+
+@font-face {
+    font-family: apercu;
+    src: url(../assets/Fonts/apercu.ttf);
+}
+
+@font-face {
+    font-family: bang;
+    src: url(../assets/Fonts/Bang.ttf);
+}
+
+@font-face {
+    font-family: fontSpringExtraLight;
+    src: url(../assets/Fonts/Fontspring-DEMO-pinkcrestelle-extralight.otf);
+}
+
+@font-face {
+    font-family: fontSpringRegular;
+    src: url(../assets/Fonts/Fontspring-DEMO-pinkcrestelle-regular.otf);
+}
+
+@font-face {
+    font-family: fontSpringSemiBold;
+    src: url(../assets/Fonts/Fontspring-DEMO-pinkcrestelle-semibold.otf);
+}
+
+@font-face {
+    font-family: garphite;
+    src: url(../assets/Fonts/Graphite-DEMO-BF65b429d37a96e.otf);
+}
+
+@font-face {
+    font-family: mangoRegular;
+    src: url(../assets/Fonts/MangoGrotesque-Regular.ttf);
+}
+
+@font-face {
+    font-family: mediumOTF;
+    src: url(../assets/Fonts/medium.otf);
+}
+
+@font-face {
+    font-family: monumentUltraBold;
+    src: url(../assets/Fonts/Monument\ Ultrabold.otf);
+}
+
+@font-face {
+    font-family: madena;
+    src: url(../assets/Fonts/rl-madena-oblique.otf);
+}
+
+@font-face {
+    font-family: stretchPro;
+    src: url(../assets/Fonts/StretchPro.otf);
+}
+
+.akony{
+    font-family: akony;
+}
+
+.apercu{
+    font-family: apercu;
+}
+
+.bang{
+    font-family: bang;
+}
+
+.fontSpringExtraLight{
+    font-family: fontSpringExtraLight;
+}
+
+.fontSpringRegular{
+    font-family: fontSpringRegular;
+}
+
+.fontSpringSemiBold{
+    font-family: fontSpringSemiBold;
+}
+
+.garphite{
+    font-family: garphite;
+}
+
+.mangoRegular{
+    font-family: mangoRegular;
+}
+
+.mediumOTF{
+    font-family: mediumOTF;
+}
+
+.monumentUltraBold{
+    font-family: monumentUltraBold;
+}
+
+.madena{
+    font-family: madena;
+}
+
+.stretchPro{
+    font-family: stretchPro;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
